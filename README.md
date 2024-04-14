@@ -8,4 +8,6 @@ This repository contains the codes to create a backend for any computer vision a
 
 # NOTE: This code will not work for RealSense cameras because they use Pyrealsense2 library for recording. For that, please read the documentation of pyrealsense2 library and try out cool stuff :). Reach out to me if you have any doubts..... # 
 
-# Chaitanya Srikanth - AI Developer from profession and a backend Engineer from heart! # 
+# Author # 
+Chaitanya Srikanth
+Python & AI Dev
